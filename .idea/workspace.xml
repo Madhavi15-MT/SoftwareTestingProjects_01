@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3af60440-8c80-407a-805b-580c923a5609" name="Changes" comment="Edited the files">
+    <list default="true" id="3af60440-8c80-407a-805b-580c923a5609" name="Changes" comment="Added the file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_5_API_Testing/Test Plan - Template (1).docx" beforeDir="false" afterPath="$PROJECT_DIR$/Project_5_DataBase_Testing/Test Plan - Template (1).docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,9 +43,15 @@
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ADMIN/IdeaProjects/SoftwareTestingProjects_01/Project_4_Web Application_Promotions&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ADMIN\IdeaProjects\SoftwareTestingProjects_01\Project_4_Web Application_Promotions" />
+    </key>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="3af60440-8c80-407a-805b-580c923a5609" name="Changes" comment="" />
@@ -85,13 +92,39 @@
       <option name="project" value="LOCAL" />
       <updated>1746088717117</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Edited the files">
+      <option name="closed" value="true" />
+      <created>1746099147362</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1746099147362</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Edited the filed">
+      <option name="closed" value="true" />
+      <created>1746099278126</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1746099278126</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added the file">
+      <option name="closed" value="true" />
+      <created>1746099380087</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1746099380087</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Push the code" />
     <MESSAGE value="Edited the file" />
     <MESSAGE value="Edited the files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Edited the files" />
+    <MESSAGE value="Edited the filed" />
+    <MESSAGE value="Added the file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the file" />
   </component>
 </project>
