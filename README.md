@@ -5,15 +5,11 @@ This repository contains a list of all the projects completed during my manual t
 
 | Project Name                              | Description                                                                                                                                                                                                                                                        | Tools Used                 |
 |-------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|
-| Project 1                                 | Windows Sustenance Engineering ensures post-release Windows OS upkeep through service packs, updates, manual/automated testing, and SQL-driven database queries, supporting quality, productivity, and independent verification mechanisms for Microsoft products. 
-| Windows Test Technologies, Product Studio |
-| Project 2                                 | Tested a Banking Domain Project for commercial transactions, alerting unusual activities for human evaluation regarding money laundering or terrorist financing, deployed across 50+ countries.                                                                    
-| Quality Control (QC)                      |
-| Project 3                                 | Tested a Web based Performance Management Application to ensure the Roles, Goals and Year End Conversations.                                                                                                                                                       | Azure DevOps, MYSQL, Tosca |
-| Project 4                                 | Tested a Web based Application which is on Promotions and conversions of the candidates                                                     
-| Azure DepOps,MySQL,TOSCA                  |
-| Project 5                                 | Tested a Web based Application and performed an API testing                                                                    
-| TOSCA                                     |
+| Project 1                                 | Windows Sustenance Engineering ensures post-release Windows OS upkeep through service packs, updates, manual/automated testing, and SQL-driven database queries, supporting quality, productivity, and independent verification mechanisms for Microsoft products.| Windows Test Technologies, Product Studio |
+| Project 2                                 | Tested a Banking Domain Project for commercial transactions, alerting unusual activities for human evaluation regarding money laundering or terrorist financing, deployed across 50+ countries.                                                                    | Quality Control (QC) |
+| Project 3                                 | Tested a Web based Performance Management Application to ensure the Roles, Goals and Year End Conversations.| Azure DevOps, MYSQL, Tosca |
+| Project 4                                 | Tested a Web based Application which is on Promotions and conversions of the candidates | Azure DepOps,MySQL,TOSCA |
+| Project 5                                 | Tested a Web based Application and performed an API testing    | TOSCA|
     
 
 
