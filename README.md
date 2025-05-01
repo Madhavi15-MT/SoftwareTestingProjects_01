@@ -3,7 +3,7 @@ This repository contains a list of all the projects completed during my manual t
 
 ## Project List
 
-| |Project Name                              | Description                                                                                                                                                                                                                                                        | Tools Used                 |
+| Project Name                              | Description                                                                                                                                                                                                                                                        | Tools Used                 |
 |-------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|
 | Project 1                                 | Windows Sustenance Engineering ensures post-release Windows OS upkeep through service packs, updates, manual/automated testing, and SQL-driven database queries, supporting quality, productivity, and independent verification mechanisms for Microsoft products. 
 | Windows Test Technologies, Product Studio |
