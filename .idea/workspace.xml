@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3af60440-8c80-407a-805b-580c923a5609" name="Changes" comment="Added the file">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project_5_API_Testing/Test Plan - Template (1).docx" beforeDir="false" afterPath="$PROJECT_DIR$/Project_5_DataBase_Testing/Test Plan - Template (1).docx" afterDir="false" />
+    <list default="true" id="3af60440-8c80-407a-805b-580c923a5609" name="Changes" comment="Added the files">
+      <change afterPath="$PROJECT_DIR$/Project_5_DataBase_Testing/dUMMY" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +115,23 @@
       <option name="project" value="LOCAL" />
       <updated>1746099380087</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added the files">
+      <option name="closed" value="true" />
+      <created>1746100114166</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1746100114166</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added the files">
+      <option name="closed" value="true" />
+      <created>1746100306678</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1746100306678</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -125,6 +140,7 @@
     <MESSAGE value="Edited the files" />
     <MESSAGE value="Edited the filed" />
     <MESSAGE value="Added the file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added the file" />
+    <MESSAGE value="Added the files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the files" />
   </component>
 </project>
