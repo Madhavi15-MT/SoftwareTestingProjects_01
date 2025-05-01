@@ -1,0 +1,37 @@
+CREATE table Candidates ( 
+EmployeeID VARCHAR(10) NOT NULL,
+Name VARCHAR(30) NOT NULL,
+Email VARCHAR(10),
+Business VARCHAR(10),
+Processyear VARCHAR(20),
+PRIMARYKEY (EmployeeID);
+
+DESCRIBE Candidates;
+
+INSERT INTO Candidates(EmployeeID,Name,Email,Business,Processyear) 
+VALUES ('5321444','John','Jhon@abc.com','CMG','2026'),
+('5321444','MAX','MAX@abc.com','TAX','2026'),
+('5321444','WELL','WELL@abc.com','AUDIT','2026'),
+('5321444','JAMES','JAMES@abc.com','ADVISORY','2026'),('5321444','JACK','JACK@abc.com','CONSULTING','2026')
+
+
+
+SELECT * from Candidates;
+
+SELECT * from Candidates where EmployeeID = 5321444 where processyear = 2026;
+
+SELECT COUNT(*) from Candidates;
+
+UPDATE Candidates set Focus = 'ABC' where EmployeeID = 5321444;
+
+SELECT * from Candidates where name like '%oor';
+
+DROP table Candidates;
+
+ALTER table Candidates ADD Business VARCHAR(40);
+
+DELETE from Candidates where EmployeeId = 512463;
+
+TRUNCATE TABLE Candidates;
+
+
