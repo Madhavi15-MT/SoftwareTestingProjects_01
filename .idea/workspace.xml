@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3af60440-8c80-407a-805b-580c923a5609" name="Changes" comment="Edited the file">
+    <list default="true" id="3af60440-8c80-407a-805b-580c923a5609" name="Changes" comment="Edited the files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,12 +77,21 @@
       <option name="project" value="LOCAL" />
       <updated>1746086004427</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Edited the files">
+      <option name="closed" value="true" />
+      <created>1746088717117</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1746088717117</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Push the code" />
     <MESSAGE value="Edited the file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Edited the file" />
+    <MESSAGE value="Edited the files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edited the files" />
   </component>
 </project>
